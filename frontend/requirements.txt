@@ -1,0 +1,6 @@
+requests
+uuid
+edge-tts
+faster-whisper
+audio-recorder-streamlit
+streamlit

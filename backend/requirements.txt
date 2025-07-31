@@ -1,0 +1,5 @@
+langchain 
+langchain-groq 
+langgraph>=0.0.33
+uvicorn 
+fastapi

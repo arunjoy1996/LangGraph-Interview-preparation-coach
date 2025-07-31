@@ -1,0 +1,36 @@
+{
+  "behavioral": {
+    "easy": [
+      "What are your strengths?"
+    ],
+    "medium": [
+      "Tell me about a time you resolved a conflict at work.",
+      "What do you think are your core strengths?",
+      "How do you manage time?",
+      "How do you approach a difficult decision making situation?"
+    ],
+    "hard": [
+      "Describe a situation where you failed and how you handled it."
+    ]
+  },
+  "technical": {
+    "easy": [
+      "What is the difference between supervised and unsupervised learning?",
+      "What is a confusion matrix?",
+      "What is the difference between mean and median?",
+      "What is a histogram used for?"
+    ],
+    "medium": [
+      "How do you handle missing data in a dataset?",
+      "Explain the concept of cross-validation.",
+      "What is the difference between precision and recall?",
+      "How do you choose the right model for a dataset?"
+    ],
+    "hard": [
+      "Explain the bias-variance tradeoff.",
+      "How does XGBoost work internally?",
+      "What is the curse of dimensionality?",
+      "How would you build a recommendation system from scratch?"
+    ]
+  }
+}
